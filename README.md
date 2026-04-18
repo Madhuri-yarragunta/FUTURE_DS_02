@@ -24,6 +24,6 @@ Based on the dashboard analysis, several critical patterns were identified:
 * **Service Focus:** Improve customer support for technical issues, as "Attitude of support person" was also a cited reason for leaving.
 
 ## 📂 Project Files
-<img width="984" height="691" alt="Telecom-Churn-Analysis-Dashboard" src="https://github.com/user-attachments/assets/4addf4a1-2a2b-4ce8-b53c-eef9d9b27120" />
+[Telecom-Customer-Churn-Dataset (1).xlsx](https://github.com/user-attachments/files/26855181/Telecom-Customer-Churn-Dataset.1.xlsx)
 [Telecom-Customer-Churn-Dataset analysis.xlsx](https://github.com/user-attachments/files/26855058/Telecom-Customer-Churn-Dataset.analysis.xlsx)
 
